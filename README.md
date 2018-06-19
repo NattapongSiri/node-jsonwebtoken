@@ -310,7 +310,7 @@ RS384 | RSASSA using SHA-384 hash algorithm
 RS512 | RSASSA using SHA-512 hash algorithm
 ES256 | ECDSA using P-256 curve and SHA-256 hash algorithm
 ES384 | ECDSA using P-384 curve and SHA-384 hash algorithm
-ES512 | ECDSA using P-521 curve and SHA-512 hash algorithm
+ES512 | ECDSA using P-512 curve and SHA-512 hash algorithm
 none | No digital signature or MAC value included
 
 ## Refreshing JWTs
